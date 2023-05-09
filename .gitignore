@@ -24,6 +24,6 @@ dist-ssr
 *.sw?
 
 .eslintrc.cjs
-.package-lock-json
-.package.json
-.vite.config.js
+package-lock.json
+package.json
+vite.config.js
