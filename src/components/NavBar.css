@@ -1,0 +1,41 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+    background: #0a0a0a;
+}
+
+#navbar h2 a{
+    display: flex;
+    align-items: center;
+    gap: 1rem;  
+}
+
+#navbar form{
+    display: flex;
+    gap: 1rem;
+}
+
+#navbar input{
+    padding: 0.4rem 0.8rem;
+    border-radius: 20px;
+    border: none;
+}
+
+#navbar form button{
+    background: #ff0000;
+    border: 1px solid #6e0202;
+    border-radius: 50%;
+    padding: 0.6rem;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #f8f8f8;
+    transition: 0.5s;
+}
+
+#navbar form button:hover{
+    background: transparent;
+}

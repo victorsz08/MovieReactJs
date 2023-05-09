@@ -1,0 +1,22 @@
+*{
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background: #181818;
+  color: #ffffff;
+}
+
+a{
+  color: #ff0000;
+  transition: 0.4s;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #6d0d0d;
+}
