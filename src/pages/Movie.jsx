@@ -58,7 +58,7 @@ const Movie = () => {
             </div>
             <div className="info description">
                 <h3>
-                    <BsFillFileEarmarkTextFill/> Descri;'ao':
+                    <BsFillFileEarmarkTextFill/> Descrição:
                 </h3>
                 <p>{movie.budget}</p>
             </div>
